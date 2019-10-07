@@ -1,0 +1,15 @@
+77dc566b9d878fe22a7ed1d8587d6964 *DESCRIPTION
+d41d8cd98f00b204e9800998ecf8427e *NAMESPACE
+e8eadd5579c6e157ba48277e132c7316 *data/MS1_neg.rda
+d37b5e4ebf530393830d8fb14b8b5408 *data/MS1_pos.rda
+92f85916499d5575d7816356e6099893 *data/MSMS1_neg.rda
+21dbf15dff696470b91d917fc58ba5db *data/MSMS1_pos.rda
+9dc1ff3c2dc82625b2de2a2b30fb2a47 *data/MSMS2_neg.rda
+f8afe62a71954be76c9170877033af9f *data/MSMS2_pos.rda
+ca6f5dc4a6b67ae63f0893869dda02bc *data/datalist
+8bf8a3a814bbd55363147b90fc91dfa2 *man/MS1_neg.Rd
+c622443876f914b38906496dbcb02a28 *man/MS1_pos.Rd
+06a99d1b7a8406e2d44f0992ea416ef0 *man/MSMS1_neg.Rd
+43d33713c5627cbbe4b51051b75b0f8b *man/MSMS1_pos.Rd
+c45021147987a2c930a589f02ea583fb *man/MSMS2_neg.Rd
+660a4f575e2edc1df9abb2e78ddaf5ce *man/MSMS2_pos.Rd
